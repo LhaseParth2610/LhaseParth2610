@@ -35,3 +35,10 @@ I'm **Parth Lhase** just a guy who  loves building things with code..
 ## 📰 Latest Blog Post Update
 
 I write blogs to stay in sync with the ever-evolving world of tech and to share what I learn along the way.![`Blog Link`](.github/workflows/blog.yml).
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lhaseparth2610/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhaseparth2610@gmail.com)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LhaseParth2610.LhaseParth2610)
