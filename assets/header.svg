@@ -1,0 +1,7 @@
+<svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .wave { animation: wave 1s infinite; }
+    @keyframes wave { 0% { transform: translateY(0); } 50% { transform: translateY(-10px); } 100% { transform: translateY(0); } }
+  </style>
+  <text x="10" y="35" font-size="30" class="wave">Hi there, I'm Parth! 👋</text>
+</svg>
