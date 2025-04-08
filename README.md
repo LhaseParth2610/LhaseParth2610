@@ -5,7 +5,7 @@
 # Hello World! 👋🏼
 I'm **Parth Lhase** just a guy who  loves building things with code..
 
-🛜 currently working on my own [Edulite-OS](https://edulite-os-showcase.vercel.app/)  A Lightweight Linux Distro for Affordable Tech Education <br>👨🏼‍🎓 Completing my Btech in Artificial Intelligince and Data Science at AISSMS IOIT
+🛜 currently working on my own lightweight Linux Distro for Affordable Tech Education [Edulite-OS](https://edulite-os-showcase.vercel.app/) <br>👨🏼‍🎓 Completing my Btech in Artificial Intelligince and Data Science at AISSMS IOIT
 
 
 # 💻 Tech Stack:
