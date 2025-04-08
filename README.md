@@ -33,4 +33,5 @@ I'm **Parth Lhase** just a guy who  loves building things with code..
 </picture>
 
 ## 📰 Latest Blog Post Update
-My README is automatically updated to showcase my latest blog post from Medium. The update is handled by a GitHub Action defined in [`.github/workflows/blog.yml`](.github/workflows/blog.yml).
+
+I write blogs to stay in sync with the ever-evolving world of tech and to share what I learn along the way.![`Blog Link`](.github/workflows/blog.yml).
