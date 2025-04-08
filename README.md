@@ -1,4 +1,4 @@
-<img src="banner.png" alt="GitHub Banner" width="70%" />
+<img src="banner.png" alt="GitHub Banner" width="40%" />
 
 # 
 # Hello World! 👋🏼
