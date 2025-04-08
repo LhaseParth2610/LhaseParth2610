@@ -33,9 +33,11 @@ I'm **Parth Lhase** just a guy who  loves building things with code..
 </picture>
 
 ## 📰 Latest Blog Post Update
+I enjoy writing about technology and sharing my insights.
 
-I write blogs to stay in sync with the ever-evolving world of tech and to share what I learn along the way.![`Blog Link`](.github/workflows/blog.yml).
-
+- [**Blog Post 1**](https://medium.com/@LhaseParth2610/blog-post-1): Exploring the intricacies of modern web development.
+- [**Blog Post 2**](https://medium.com/@LhaseParth2610/blog-post-2): A deep dive into machine learning algorithms.
+- [**Blog Post 3**](https://medium.com/@LhaseParth2610/blog-post-3): Best practices for writing clean and maintainable code.
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lhaseparth2610/)
