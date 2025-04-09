@@ -42,6 +42,6 @@ I enjoy writing about technology and sharing my insights.
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parth-lhase-60342a330/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthlhase49@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parthlhase49@gmail.com)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LhaseParth2610.LhaseParth2610)
