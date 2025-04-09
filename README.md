@@ -39,6 +39,7 @@ I enjoy writing about technology and sharing my insights.
 - [**Blog Post 1**](https://medium.com/@LhaseParth2610/blog-post-1): Exploring the intricacies of modern web development.
 - [**Blog Post 2**](https://medium.com/@LhaseParth2610/blog-post-2): A deep dive into machine learning algorithms.
 - [**Blog Post 3**](https://medium.com/@LhaseParth2610/blog-post-3): Best practices for writing clean and maintainable code.
+ 
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parth-lhase-60342a330/)
