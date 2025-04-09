@@ -41,7 +41,7 @@ I enjoy writing about technology and sharing my insights.
 - [**Blog Post 3**](https://medium.com/@LhaseParth2610/blog-post-3): Best practices for writing clean and maintainable code.
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lhaseparth2610/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhaseparth2610@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parth-lhase-60342a330/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthlhase49@gmail.com)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LhaseParth2610.LhaseParth2610)
