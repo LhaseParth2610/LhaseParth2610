@@ -33,12 +33,6 @@ I'm **Parth Lhase** just a guy who  loves building things with code..
   <img alt="github-snake" src="https://raw.githubusercontent.com/LhaseParth2610/LhaseParth2610/output/github-snake.svg" />
 </picture>
 
-## 📰 Latest Blog Post Update
-I enjoy writing about technology and sharing my insights.
-
-- [**Blog Post 1**](https://medium.com/p/99dc5e6e83ec/edit): Exploring the intricacies of modern web development.
-- [**Blog Post 2**](https://medium.com/@LhaseParth2610/blog-post-2): A deep dive into machine learning algorithms.
-- [**Blog Post 3**](https://medium.com/@LhaseParth2610/blog-post-3): Best practices for writing clean and maintainable code.
  
 ### Connect with Me
 
